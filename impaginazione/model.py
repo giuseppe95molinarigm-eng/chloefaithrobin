@@ -74,6 +74,9 @@ for pn, P in pages.items():
         for w in re.findall(r"[A-Za-z’'\-]+", L["text"].strip().rstrip("-")):
             corpus[w.lower()] += 1
 
+# line-end hyphen decisions (checked by hand); True = real compound hyphen
+HYPH = []
+HYPH_FORCE = {}
 # ---------------------------------------------------------------- build stream
 stream = []          # list of Tok or marker dicts
 charmap = {}         # (pn, char_index) -> Tok
@@ -117,6 +120,10 @@ for pn in range(FIRST, LAST + 1):
             elif b[:1].isupper(): keep = True
             elif corpus[a.lower()] > 0 and corpus[b.lower()] > 0 and len(a) > 2 and len(b) > 2: keep = True
             else: keep = False
+            # the original setting had hyphenation switched off: every line-end hyphen is a real one
+            keep = True
+            if joined_h in HYPH_FORCE: keep = HYPH_FORCE[joined_h]
+            HYPH.append(dict(page=pn, a=a, b=b, keep=keep))
             if not keep: last.kind = "softhyph"
         prev = None
         idxs = L["idx"]
@@ -480,5 +487,6 @@ for a, b2 in FIXLOG:
         if op[0] != "equal": fx.append((op[0], a[max(0, op[1]-25):op[2]+25], b2[max(0, op[3]-25):op[4]+25]))
 json.dump(fx, open(OUT + ".fix.json", "w"), ensure_ascii=False, indent=0)
 doc = [b for b in doc if not (b["type"] == "para" and not "".join(t for t, _ in b["runs"]).strip())]
+json.dump(HYPH, open(OUT + ".hyph.json", "w"), ensure_ascii=False, indent=0)
 json.dump(doc, open(OUT, "w"), ensure_ascii=False, indent=0)
 print("blocks", collections.Counter(b["type"] for b in doc))

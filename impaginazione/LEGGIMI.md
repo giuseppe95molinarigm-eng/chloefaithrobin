@@ -17,8 +17,13 @@ Il layout riprende quello originale:
 | `model.py` | Legge il PDF di markup, ricostruisce paragrafi, rientri, corsivi, capitoli e cambi scena, e applica le annotazioni (sostituzioni, eliminazioni, inserimenti, corsivo, unioni di paragrafi). Sulle doppie correzioni vince la più recente. Produce `doc.json`. |
 | `gen.py` | Genera l'HTML con frontespizio, copyright, dedica, nota dell'autrice, mappa e corpo. Il terzo argomento è il nome del credito tipografico. |
 | `mkfont2.py` | Converte i font CFF estratti dal PDF in OTF (legature fi/fl/ff/Th) e aggiunge i pochi glifi mancanti da EB Garamond/DejaVu. |
+| `trace.py`, `title_art.svg` | Vettorializzano il testo del frontespizio (titolo, "A NOVEL", autrice) dall'immagine fornita da Chloe. |
 | `sun.svg`, `orn.svg`, `rule_*.svg` | Grafica vettoriale estratta dal PDF originale, in CMYK. |
 
 Il PDF si ottiene con WeasyPrint: `python3 -c "import weasyprint; weasyprint.HTML('book.html').write_pdf('book.pdf')"`.
 
 I font non sono nel repository, perché sono font Adobe con licenza. Si rigenerano estraendoli dal PDF originale.
+
+## Trattini a fine riga
+
+L'impaginazione originale non usava la sillabazione automatica. I 34 trattini che nel PDF cadevano a fine riga sono tutti trattini veri di parole composte, e restano nel testo. Anche la nuova impaginazione non sillaba (`hyphens: manual`): una parola va a capo solo dopo un trattino che fa già parte della parola.

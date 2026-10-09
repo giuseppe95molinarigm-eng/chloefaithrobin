@@ -61,7 +61,7 @@ css = f"""
 html {{ font-family: AGP, EBG, "DejaVu Sans"; font-size: 11pt; line-height: {LEAD}pt; color: {BLACK};
         font-variant-ligatures: common-ligatures discretionary-ligatures; font-kerning: normal; }}
 body {{ margin: 0; }}
-p {{ margin: 0; letter-spacing: -0.15pt; text-align: justify; hyphens: auto; text-indent: 14.2pt;
+p {{ margin: 0; letter-spacing: -0.15pt; text-align: justify; hyphens: manual; text-indent: 14.2pt;
      orphans: 2; widows: 2; hyphenate-limit-chars: 5 2 2; hyphenate-character: "-"; }}
 p.ni {{ text-indent: 0; }}
 i {{ font-style: italic; }}
@@ -72,10 +72,9 @@ i {{ font-style: italic; }}
 .mappage img {{ height: 548pt; }}
 
 .title {{ height: {28*LEAD}pt; position: relative; text-align: center; margin-left: -5pt; margin-right: 5pt; }}
-.title h1 {{ position: absolute; left: 0; right: 0; top: {288 - MT - 30}pt; margin: 0; font: 400 40pt/40pt MontSC; color: {BLACK}; letter-spacing: 0.5pt; }}
-.title .author {{ position: absolute; left: 0; right: 0; top: {400 - MT}pt; font: 18pt/18pt AvantGarde; letter-spacing: 1pt; }}
-.title .author small {{ font-size: 12.6pt; }}
-.title .logo {{ position: absolute; left: 0; right: 0; top: {470 - MT}pt; text-align: center; }}
+.title .art {{ position: absolute; left: 0; right: 0; top: {222 - MT}pt; text-align: center; }}
+.title .art img {{ width: 250pt; height: 134pt; }}
+.title .logo {{ position: absolute; left: 0; right: 0; top: {455 - MT}pt; text-align: center; }}
 .title .logo img {{ width: 62pt; }}
 
 .copyright {{ height: {28*LEAD}pt; display: flex; flex-direction: column; justify-content: flex-end; }}
@@ -116,8 +115,7 @@ parts = []
 # ---------------- front matter
 parts.append(f"""
 <section class="front recto"><div class="title">
-  <h1>Gold Man</h1>
-  <div class="author">L<small>ORI</small> H<small>ODGKINSON</small></div>
+  <div class="art"><img src="title_art.svg" alt="Gold Man — A Novel — Lori Hodgkinson"></div>
   <div class="logo"><img src="logo.png"></div>
 </div></section>
 
