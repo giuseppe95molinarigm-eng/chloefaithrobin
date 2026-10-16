@@ -121,8 +121,8 @@ parts.append(f"""
 
 <section class="front"><div class="copyright"><div>
 <p>Copyright © Lori Hodgkinson, 2026</p>
-<p>ISBN 978-1-998206-52-0 (<i>paperback</i>)</p>
-<p>ISBN 978-1-998206-52-0 (<i>e-book</i>)</p>
+<p>ISBN 978-1-998206-57-5 (<i>paperback</i>)</p>
+<p>ISBN 978-1-998206-58-2 (<i>e-book</i>)</p>
 <p>First Edition</p>
 <div class="gap"></div>
 <p>Published by RE:BOOKS Publishing</p>

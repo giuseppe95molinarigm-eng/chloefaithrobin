@@ -1,0 +1,1046 @@
+[
+ {
+  "n": 1,
+  "page": 2,
+  "kind": "Sostituzione",
+  "original": "978-1-998206-52-0",
+  "new": "978-1-998206-57-5",
+  "note": "",
+  "status": "front matter (gen.py)"
+ },
+ {
+  "n": 2,
+  "page": 2,
+  "kind": "Sostituzione",
+  "original": "978-1-998206-52-0",
+  "new": "978-1-998206-58-2",
+  "note": "",
+  "status": "front matter (gen.py)"
+ },
+ {
+  "n": 3,
+  "page": 14,
+  "kind": "Eliminazione",
+  "original": " gold",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 4,
+  "page": 15,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "who",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 5,
+  "page": 19,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "'d",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 6,
+  "page": 26,
+  "kind": "Sostituzione",
+  "original": "Kirk",
+  "new": "Kurt",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 7,
+  "page": 26,
+  "kind": "Sostituzione",
+  "original": "Kirk",
+  "new": "Kurt",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 8,
+  "page": 28,
+  "kind": "Sostituzione",
+  "original": "They trudged the last half mile down a muddy road to their vehicles without any words.",
+  "new": "In silence, they trudged the remaining half mile down the muddy road to their vehicles.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 9,
+  "page": 34,
+  "kind": "Sostituzione",
+  "original": "Voice mail.",
+  "new": "Voicemail.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 10,
+  "page": 34,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "l",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 11,
+  "page": 40,
+  "kind": "Sostituzione",
+  "original": "time -sensitive",
+  "new": "time-sensitive",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 12,
+  "page": 59,
+  "kind": "Eliminazione",
+  "original": " across the wooden floor",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 13,
+  "page": 59,
+  "kind": "Sostituzione",
+  "original": "The echoes of Pookmis’s thumps kept Harry awake for what seemed like hours, his heart pounding, as he listened to the haunt rant and mumble.",
+  "new": "Pookmis’s wailing kept Harry awake for what seemed like hours, his heart pounding, as he listened to the haunt rant and mumble.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 14,
+  "page": 65,
+  "kind": "Sostituzione",
+  "original": "she",
+  "new": "She",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 15,
+  "page": 68,
+  "kind": "Eliminazione",
+  "original": ", despite being twins",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 16,
+  "page": 69,
+  "kind": "Commento",
+  "original": "Nǎi Nai",
+  "new": "",
+  "note": "Fix font size",
+  "status": "layout note (manual)"
+ },
+ {
+  "n": 17,
+  "page": 69,
+  "kind": "Eliminazione",
+  "original": "h",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 18,
+  "page": 69,
+  "kind": "Sostituzione",
+  "original": "he",
+  "new": "Zi",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 19,
+  "page": 69,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "His dad, Sying, moved to Vancouver in the late 1950s at thirty-five; though he was already a geologist, he was accepted into the University of British Columbia. After a year at school, he'd built a reputation as being an exceptional student, and a small company that staked gold claims in the forests of British Columbia sponsored him.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 20,
+  "page": 70,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "it",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 21,
+  "page": 74,
+  "kind": "Sostituzione",
+  "original": "The two female pilots handled the plane with ease upon their approach. The captain announced that the four-seater Beechcraft King Air 200 would land in ten minutes.",
+  "new": "The captain announced that the four-seater Beechcraft King Air 200 would land in ten minutes. The two female pilots handled the plane with ease upon their approach.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 22,
+  "page": 78,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "l",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 23,
+  "page": 82,
+  "kind": "Sostituzione",
+  "original": "grey- ginger beard",
+  "new": "grey-ginger beard",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 24,
+  "page": 91,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "l",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 25,
+  "page": 92,
+  "kind": "Sostituzione",
+  "original": "red - brick",
+  "new": "red-brick",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 26,
+  "page": 92,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "insert space",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 27,
+  "page": 94,
+  "kind": "Sostituzione",
+  "original": "goat",
+  "new": "geezer",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 28,
+  "page": 98,
+  "kind": "Sostituzione",
+  "original": "black - and - white",
+  "new": "black-and-white",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 29,
+  "page": 100,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "The",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 30,
+  "page": 100,
+  "kind": "Sostituzione",
+  "original": "No one was spotted in that area for the past week.",
+  "new": "No one without authorization was spotted on site in the past week.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 31,
+  "page": 101,
+  "kind": "Eliminazione",
+  "original": " to",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 32,
+  "page": 103,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "over",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 33,
+  "page": 104,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "'d",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 34,
+  "page": 109,
+  "kind": "Eliminazione",
+  "original": " to take over Sceptre Gold.",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 35,
+  "page": 115,
+  "kind": "Sostituzione",
+  "original": "“When I first arrived, I’d heard Wallace Howitzer was keen on that project. Now it is in early-stage testing?” The more Zi learned, the more he realized he didn’t know.",
+  "new": "“When I met Wallace Howitzer, he was keen on that project. Now it is in early-stage testing.” The more Zi learned, the more he realized mining was a long and complicated business.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 36,
+  "page": 115,
+  "kind": "Sostituzione",
+  "original": "“They’re still waiting for the results, from what the news release states. Hit or miss at this point.",
+  "new": "“That’s right. They’re still waiting for the results, according to the latest news release. Hit or miss at this point, boss.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 37,
+  "page": 115,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "¶",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 38,
+  "page": 115,
+  "kind": "Eliminazione",
+  "original": "h",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 39,
+  "page": 119,
+  "kind": "Eliminazione",
+  "original": "locked ",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 40,
+  "page": 124,
+  "kind": "Eliminazione",
+  "original": " It was vault-like, perfect.",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 41,
+  "page": 126,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "l",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 42,
+  "page": 139,
+  "kind": "Sostituzione",
+  "original": "Harry ran up the stairs, slammed the basement door, and beelined into the living room.",
+  "new": "Harry ran up the stairs, quietly shut the basement door, and darted into the living room.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 43,
+  "page": 141,
+  "kind": "Sostituzione",
+  "original": "I’ll need a couple days to get my statement together.”",
+  "new": "I’ll need a couple of days to get my statement together for you.\"",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 44,
+  "page": 141,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "That's fine.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 45,
+  "page": 141,
+  "kind": "Sostituzione",
+  "original": "Jeffery",
+  "new": "Jeffrey",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 46,
+  "page": 146,
+  "kind": "Sostituzione",
+  "original": "After putting the envelope stuffed with the letters and photo back in the safe, he walked across the yard to the front gate and tried April’s cell number.",
+  "new": "After putting the envelope stuffed with the letters and photo back in the safe, he stepped outside, across the yard to the front gate, and tried April’s cell number.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 47,
+  "page": 164,
+  "kind": "Commento",
+  "original": "Does Rock know about Wallace’s relationship with Spring?",
+  "new": "",
+  "note": "Add italics",
+  "status": "located"
+ },
+ {
+  "n": 48,
+  "page": 165,
+  "kind": "Sostituzione",
+  "original": "He noticed how Rock leaned further into the sofa, spreading his knees wider, owning the room. The ultimate alpha.",
+  "new": "Rock stretched out on the sofa, spreading his knees wider, owning the room. The ultimate alpha.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 49,
+  "page": 165,
+  "kind": "Sostituzione",
+  "original": "He",
+  "new": "The guest",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 50,
+  "page": 165,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "¶",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 51,
+  "page": 165,
+  "kind": "Sostituzione",
+  "original": "didn’t have a",
+  "new": "had no clue",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 52,
+  "page": 168,
+  "kind": "Sostituzione",
+  "original": "He slammed the library door and went back to bed, without much sleep for the rest of the night.",
+  "new": "He stormed out of the library and went back to bed, barely sleeping for the rest of the night.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 53,
+  "page": 171,
+  "kind": "Inserimento",
+  "original": "",
+  "new": ".",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 54,
+  "page": 174,
+  "kind": "Eliminazione",
+  "original": " had been",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 55,
+  "page": 177,
+  "kind": "Eliminazione",
+  "original": " He gripped the back of a dining room chair.",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 56,
+  "page": 179,
+  "kind": "Sostituzione",
+  "original": "watched",
+  "new": "viewed",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 57,
+  "page": 184,
+  "kind": "Sostituzione",
+  "original": "made a beeline for him",
+  "new": "headed straight to him",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 58,
+  "page": 185,
+  "kind": "Sostituzione",
+  "original": "So Martha.",
+  "new": "So did Martha.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 59,
+  "page": 187,
+  "kind": "Sostituzione",
+  "original": "Harry pulled out the wooden chair, the only customer in the restaurant.",
+  "new": "Harry, the restaurant's only customer, pulled out the metal chair.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 60,
+  "page": 187,
+  "kind": "Sostituzione",
+  "original": "rich",
+  "new": "successful",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 61,
+  "page": 194,
+  "kind": "Sostituzione",
+  "original": "Had enough of you rich guys. Greasy.”",
+  "new": "Had enough of you greasy guys.\"",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 62,
+  "page": 194,
+  "kind": "Commento",
+  "original": "that’s the right word.",
+  "new": "",
+  "note": "Add italics",
+  "status": "located"
+ },
+ {
+  "n": 63,
+  "page": 199,
+  "kind": "Sostituzione",
+  "original": "He didn’t need the attention of pulling up to the valet at the main entrance.",
+  "new": "He didn’t want the attention pulling up to the main entrance.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 64,
+  "page": 200,
+  "kind": "Sostituzione",
+  "original": "It smashed into pieces.",
+  "new": "It was smashed into pieces.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 65,
+  "page": 200,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "it",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 66,
+  "page": 200,
+  "kind": "Sostituzione",
+  "original": "she",
+  "new": "April",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 67,
+  "page": 204,
+  "kind": "Sostituzione",
+  "original": "A few steps from the door, they were in the elevator of her apartment. Cinnamon started kissing Harry in the elevator, grabbed his hand, and led him to her front door.",
+  "new": "A few steps later, they were in the elevator. Cinnamon started kissing Harry. The chime rang. “We’re here.” She grabbed his hand and led him to her front door.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 68,
+  "page": 205,
+  "kind": "Eliminazione",
+  "original": " ",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 69,
+  "page": 205,
+  "kind": "Eliminazione",
+  "original": ", I’m over here",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 70,
+  "page": 214,
+  "kind": "Sostituzione",
+  "original": "Zi didn’t understand what she was trying to accomplish. Zi was running out of patience.",
+  "new": "Zi didn’t understand what she was trying to accomplish, and he was running out of patience.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 71,
+  "page": 217,
+  "kind": "Sostituzione",
+  "original": "He got comfortable at his small table by the window and observed people comment on Sunspot’s beauty.",
+  "new": "He settled into his small table by the window and loved listening to the customers comment on Sunspot’s beauty.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 72,
+  "page": 218,
+  "kind": "Sostituzione",
+  "original": "myriad",
+  "new": "a myriad of",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 73,
+  "page": 219,
+  "kind": "Eliminazione",
+  "original": " It was time to close that discussion. Enough lies.",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 74,
+  "page": 219,
+  "kind": "Sostituzione",
+  "original": "Zi Liu still had it.",
+  "new": "How wonderful.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 75,
+  "page": 223,
+  "kind": "Sostituzione",
+  "original": "humdinger",
+  "new": "whopper",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 76,
+  "page": 226,
+  "kind": "Commento",
+  "original": "What does Cooperhawk have in store for me?",
+  "new": "",
+  "note": "Add italics",
+  "status": "located"
+ },
+ {
+  "n": 77,
+  "page": 241,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "As they made their way along the driveway, Harry fired a series of questions at Cooperhawk to confirm to himself that hiring the investigator was the right choice. The mysterious man answered them all, though some of his responses were questionable and cryptic. Harry Howitzer wasn’t naive. He was taking a huge risk and potentially devastating exposure, but he saw no other options.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 78,
+  "page": 244,
+  "kind": "Eliminazione",
+  "original": ",",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 79,
+  "page": 244,
+  "kind": "Sostituzione",
+  "original": "The Toronto Stock Exchange conference call, held at the Hotel Vancouver, would be the most important event of his career as a CEO.",
+  "new": "The Toronto Stock Exchange conference call was held at the Hotel Vancouver.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 80,
+  "page": 248,
+  "kind": "Inserimento",
+  "original": "",
+  "new": ".",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 81,
+  "page": 272,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "'s",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 82,
+  "page": 281,
+  "kind": "Sostituzione",
+  "original": "genealogy - certified",
+  "new": "genealogy-certified",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 83,
+  "page": 281,
+  "kind": "Sostituzione",
+  "original": "who died over a year ago",
+  "new": "who passed away",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 84,
+  "page": 282,
+  "kind": "Sostituzione",
+  "original": "About",
+  "new": "Over",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 85,
+  "page": 282,
+  "kind": "Sostituzione",
+  "original": "over a year",
+  "new": "some time",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 86,
+  "page": 282,
+  "kind": "Sostituzione",
+  "original": "im",
+  "new": "e",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 87,
+  "page": 290,
+  "kind": "Sostituzione",
+  "original": "Jeff",
+  "new": "Bernard",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 88,
+  "page": 291,
+  "kind": "Sostituzione",
+  "original": "Jeff",
+  "new": "Bernard",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 89,
+  "page": 291,
+  "kind": "Sostituzione",
+  "original": "pulled",
+  "new": "carted",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 90,
+  "page": 291,
+  "kind": "Eliminazione",
+  "original": "the back of ",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 91,
+  "page": 291,
+  "kind": "Sostituzione",
+  "original": "Jeff",
+  "new": "Bernard",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 92,
+  "page": 293,
+  "kind": "Sostituzione",
+  "original": "Jeff",
+  "new": "Bernard",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 93,
+  "page": 293,
+  "kind": "Sostituzione",
+  "original": "Jeff",
+  "new": "Bernard",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 94,
+  "page": 293,
+  "kind": "Inserimento",
+  "original": "",
+  "new": ".",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 95,
+  "page": 294,
+  "kind": "Sostituzione",
+  "original": "Jeff",
+  "new": "Bernard",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 96,
+  "page": 295,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "insert space",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 97,
+  "page": 310,
+  "kind": "Sostituzione",
+  "original": "beelined",
+  "new": "headed",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 98,
+  "page": 319,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "l",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 99,
+  "page": 330,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "Insert a paragraph break and then these two paragraphs: \n\nZi stepped out onto the main deck to take in the picturesque marina. Bright ribbons of yellow and blue light stretched across the still water. The night air felt sharp and cold, just like Zi Liu had been today. Appalling. This Howitzer drama was turning him into someone he didn’t want to be. \n\nIt has to stop.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 100,
+  "page": 333,
+  "kind": "Eliminazione",
+  "original": " Must be something about Atlin. But then, we didn’t have results until three weeks ago.",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 101,
+  "page": 338,
+  "kind": "Inserimento",
+  "original": "",
+  "new": ".",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 102,
+  "page": 338,
+  "kind": "Inserimento",
+  "original": "",
+  "new": ".",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 103,
+  "page": 339,
+  "kind": "Inserimento",
+  "original": "",
+  "new": ".",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 104,
+  "page": 340,
+  "kind": "Eliminazione",
+  "original": "white",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 105,
+  "page": 346,
+  "kind": "Sostituzione",
+  "original": "After a few silent steps, Harry wanted the conversation over.",
+  "new": "After a few silent steps, Harry desperately wanted to wrap up Rock’s so-called meeting.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 106,
+  "page": 349,
+  "kind": "Sostituzione",
+  "original": "I smell motherlode.",
+  "new": "I smell a motherlode.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 107,
+  "page": 351,
+  "kind": "Eliminazione",
+  "original": "n",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 108,
+  "page": 362,
+  "kind": "Sostituzione",
+  "original": "pile",
+  "new": "stack",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 109,
+  "page": 363,
+  "kind": "Sostituzione",
+  "original": "a stupid man.",
+  "new": "useless. A failure.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 110,
+  "page": 364,
+  "kind": "Sostituzione",
+  "original": "He snapped the buttons on his coat, found a pair of old gloves and a toque Wallace had tucked into the back of the glove box, bundled up, and headed to the marina.",
+  "new": "He snapped his coat buttons closed, discovered a fleece toque Wallace used for fly fishing tucked into the back of the glove box, bundled up, and headed to the marina.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 111,
+  "page": 371,
+  "kind": "Sostituzione",
+  "original": "The thick, fluffy snowflakes danced through the dark skies. It was the second time Zi had seen snow in Vancouver.",
+  "new": "Thick, fluffy snowflakes swirled through the dark skies.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 112,
+  "page": 372,
+  "kind": "Eliminazione",
+  "original": " ",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 113,
+  "page": 376,
+  "kind": "Sostituzione",
+  "original": "rich guys.",
+  "new": "big shots.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 114,
+  "page": 377,
+  "kind": "Eliminazione",
+  "original": ", gloves,",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 115,
+  "page": 390,
+  "kind": "Sostituzione",
+  "original": "What the fuck going",
+  "new": "What the fuck is going",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 116,
+  "page": 394,
+  "kind": "Sostituzione",
+  "original": "I needed to know. And t",
+  "new": "T",
+  "note": "",
+  "status": "located"
+ }
+]
