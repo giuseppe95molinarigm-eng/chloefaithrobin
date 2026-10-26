@@ -68,8 +68,9 @@ i {{ font-style: italic; }}
 
 .front {{ page: front; break-before: page; }}
 .front.recto {{ break-before: right; }}
-.mappage {{ page: map; break-before: left; height: 576pt; display: flex; align-items: center; justify-content: center; }}
-.mappage img {{ height: 548pt; }}
+.mappage {{ page: map; break-before: right; height: 576pt; display: flex; align-items: center; justify-content: center; }}
+.mappage img {{ height: 500pt; }}
+.frontblank {{ page: map; break-before: page; height: 1pt; }}
 
 .title {{ height: {28*LEAD}pt; position: relative; text-align: center; margin-left: -5pt; margin-right: 5pt; }}
 .title .art {{ position: absolute; left: 0; right: 0; top: {222 - MT}pt; text-align: center; }}
@@ -85,16 +86,16 @@ i {{ font-style: italic; }}
 .dedication {{ padding-top: {185 - MT - 2}pt; text-align: center; font-style: italic; font-size: 10pt; line-height: 14pt; margin-left: -5pt; margin-right: 5pt; }}
 .dedication p {{ text-align: center; text-indent: 0; hyphens: none; }}
 
-.notehead {{ font: 11pt/16pt MontThin; color: {GOLD_TITLE}; letter-spacing: 1.35pt; text-align: center; height: {LEAD}pt; position: relative; top: -1.2pt; }}
+.notehead {{ font: 11pt/16pt MontThin; color: {BLACK}; letter-spacing: 1.35pt; text-align: center; height: {LEAD}pt; position: relative; top: -1.2pt; }}
 .ul {{ text-decoration: underline; text-decoration-thickness: 0.5pt; text-underline-offset: 2pt; }}
 
 .chapter {{ break-before: right; }}
 .opener {{ height: {18*LEAD}pt; position: relative; }}
 .opener img {{ position: absolute; top: {34 - MT}pt; left: -8.8pt; right: 0; margin: 0 auto; width: 88.38pt; height: 207.22pt; }}
 .opener h2 {{ position: absolute; left: -25pt; right: -25pt; top: {275.7 - MT - 18.1 - 2.7}pt; margin: 0; text-align: center;
-             font: 400 24pt/24pt AvantGarde; color: {GOLD_TITLE}; letter-spacing: 1.6pt; }}
+             font: 400 24pt/24pt AvantGarde; color: {BLACK}; letter-spacing: 1.6pt; }}
 .opener .sub {{ position: absolute; left: -45pt; right: -45pt; top: {302 - MT - 7.6 - 1.1}pt; margin: 0; text-align: center;
-             font: 400 10pt/10pt AvantGarde; color: {GOLD_SUB}; letter-spacing: 1.1pt; }}
+             font: 400 10pt/10pt AvantGarde; color: {BLACK}; letter-spacing: 1.1pt; }}
 .ackhead {{ break-before: right; }}
 
 
@@ -121,8 +122,10 @@ parts.append(f"""
 
 <section class="front"><div class="copyright"><div>
 <p>Copyright © Lori Hodgkinson, 2026</p>
+<div class="gap"></div>
 <p>ISBN 978-1-998206-57-5 (<i>paperback</i>)</p>
 <p>ISBN 978-1-998206-58-2 (<i>e-book</i>)</p>
+<div class="gap"></div>
 <p>First Edition</p>
 <div class="gap"></div>
 <p>Published by RE:BOOKS Publishing</p>
@@ -130,8 +133,11 @@ parts.append(f"""
 <div class="gap"></div>
 <p>All rights reserved. No part of this book may be reproduced in any form or by an electronic or mechanical means, including information storage and retrieval systems, without permission in writing from the publisher, except by a reviewer who may quote brief passages in a review.</p>
 <div class="gap"></div>
-<p>BOOK TEAM:</p>
-<p><b>Publisher:</b> Rebecca Eckler • <b>Managing Editor:</b> Chloe Faith Robinson • <b>Print Production Coordinator:</b> Johannah Manio • <b>Copy Editors:</b> Victoria D’Anna, John Wilson</p>
+<p><b>BOOK TEAM:</b></p>
+<p><b>Publisher:</b> Rebecca Eckler</p>
+<p><b>Acquiring Editor:</b> Chloe Faith Robinson</p>
+<p><b>Print Production Coordinator:</b> Johannah Manio</p>
+<p><b>Copy Editors:</b> Victoria D’Anna, John Wilson</p>
 <div class="gap"></div>
 <p><i>Cover design by Chloe Faith Robinson</i></p>
 <p><i>Interior design and typesetting by {html.escape(CREDIT)}</i></p>
@@ -151,6 +157,7 @@ parts.append(f"""
 </section>
 
 <section class="mappage"><img src="map.jpg"></section>
+<section class="frontblank"></section>
 """)
 
 # ---------------- body

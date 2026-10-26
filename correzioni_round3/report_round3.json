@@ -1,0 +1,560 @@
+[
+ {
+  "n": 14,
+  "page": 10,
+  "kind": "Eliminazione",
+  "original": "bare ",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 15,
+  "page": 10,
+  "kind": "Sostituzione",
+  "original": "into",
+  "new": "in",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 16,
+  "page": 12,
+  "kind": "Sostituzione",
+  "original": "wreck.",
+  "new": "metal.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 18,
+  "page": 44,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "once",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 19,
+  "page": 44,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "survive",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 20,
+  "page": 59,
+  "kind": "Sostituzione",
+  "original": "touched the cut on his forehead",
+  "new": "rubbed his headwrap",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 21,
+  "page": 59,
+  "kind": "Eliminazione",
+  "original": "still ",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 22,
+  "page": 59,
+  "kind": "Eliminazione",
+  "original": ",",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 23,
+  "page": 63,
+  "kind": "Sostituzione",
+  "original": "His executive-sized office was appointed with black leather furnishings and a custom walnut desk.",
+  "new": "Zi swallowed his grief and entered his executive office, furnished with black leather and a custom walnut desk.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 24,
+  "page": 67,
+  "kind": "Eliminazione",
+  "original": "Inside, ",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 27,
+  "page": 98,
+  "kind": "Sostituzione",
+  "original": "The news wasn’t good.",
+  "new": "They each took turns breaking their bad news.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 28,
+  "page": 99,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "She was livid about Hunt’s flip-flop. ",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 30,
+  "page": 127,
+  "kind": "Sostituzione",
+  "original": ", flew through the neighbourhood, and after double-parking in front of the hospital, ran into the emergency ward.",
+  "new": "and flew through the neighborhood. No luck finding a spot. Fuck it. He double parked in front of the hospital and ran into the emergency ward.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 31,
+  "page": 135,
+  "kind": "Sostituzione",
+  "original": "p.m.",
+  "new": "o'clock.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 32,
+  "page": 144,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "walked",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 33,
+  "page": 148,
+  "kind": "Sostituzione",
+  "original": "He watched as the phantom left the room and glided up the staircase",
+  "new": "The phantom glided up the staircase",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 34,
+  "page": 154,
+  "kind": "Sostituzione",
+  "original": "charming.",
+  "new": "charismatic.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 35,
+  "page": 158,
+  "kind": "Commento",
+  "original": "So much for leaving.",
+  "new": "",
+  "note": "italics",
+  "status": "located"
+ },
+ {
+  "n": 36,
+  "page": 163,
+  "kind": "Eliminazione",
+  "original": " clue",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 37,
+  "page": 165,
+  "kind": "Sostituzione",
+  "original": "Inside, on the top corner shelf, he pulled down a long, pointed dagger from a purple velvet bag.",
+  "new": "From the top corner shelf, he pulled down a purple velvet bag. Inside, he found a long, pointed dagger.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 38,
+  "page": 168,
+  "kind": "Sostituzione",
+  "original": "Twenty",
+  "new": "Thirty-five",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 39,
+  "page": 188,
+  "kind": "Sostituzione",
+  "original": "office,",
+  "new": "room,",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 40,
+  "page": 188,
+  "kind": "Eliminazione",
+  "original": "dropped his briefcase. He ",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 41,
+  "page": 189,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "“Something’s up, Dad.”",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 42,
+  "page": 190,
+  "kind": "Sostituzione",
+  "original": "had",
+  "new": "showed",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 43,
+  "page": 190,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "\"This is sketch.\"",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 44,
+  "page": 192,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "I",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 45,
+  "page": 195,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "I'll sort this out.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 46,
+  "page": 195,
+  "kind": "Sostituzione",
+  "original": "Keefer scum. Serge whoever. The nerve.",
+  "new": "He let out a long, exasperated sigh as his mind raced.¶What do these nervy Keefer bastards want with Sceptre?",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 47,
+  "page": 201,
+  "kind": "Sostituzione",
+  "original": "“The woman you were speaking to at the service. Trudy? Why have you never mentioned her to me?”",
+  "new": "“The woman you were speaking to at the service.”¶“Trudy?” Harry knew where this conversation was going. ¶“Why have you never mentioned her to me?”",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 48,
+  "page": 206,
+  "kind": "Sostituzione",
+  "original": "She dipped behind an office tower. Is that Cinnamon? he thought. No, the street is dark; that can’t be her.",
+  "new": "She dipped behind the office tower and disappeared. ¶Cinnamon? Better not be. He cranked the stiff wheel hard, and made a U-turn. The talk about being exclusive came out of nowhere. He wasn’t interested. Life was bloody complicated enough.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 49,
+  "page": 207,
+  "kind": "Eliminazione",
+  "original": "He made a U-turn.",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 50,
+  "page": 211,
+  "kind": "Eliminazione",
+  "original": " The special one.",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 51,
+  "page": 216,
+  "kind": "Sostituzione",
+  "original": "he had come",
+  "new": "came",
+  "note": "came",
+  "status": "located"
+ },
+ {
+  "n": 52,
+  "page": 224,
+  "kind": "Eliminazione",
+  "original": " The Russian thug and Keefer Gold doesn’t make any sense. Why? ",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 53,
+  "page": 227,
+  "kind": "Eliminazione",
+  "original": " For Sceptre, the worst times appeared to be over. ",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 54,
+  "page": 232,
+  "kind": "Sostituzione",
+  "original": "perfect",
+  "new": "flawless",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 55,
+  "page": 238,
+  "kind": "Eliminazione",
+  "original": " It was tucked in a box of old coins in the safe. ",
+  "new": "",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 56,
+  "page": 247,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "a",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 57,
+  "page": 259,
+  "kind": "Sostituzione",
+  "original": "Every option was in play.",
+  "new": "The next move had to be brilliant. He would consider every option to secure the Liu victory. His family would never look foolish or fail again.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 58,
+  "page": 273,
+  "kind": "Sostituzione",
+  "original": "long, pointed nose and profile of puckered lips.",
+  "new": "hooked nose, strong angular jawline, prominent thick lips, and poker-straight, dark hair.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 59,
+  "page": 276,
+  "kind": "Sostituzione",
+  "original": "whispered.",
+  "new": "mumbled.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 60,
+  "page": 282,
+  "kind": "Sostituzione",
+  "original": "Chinese gangsters,",
+  "new": "the Lius,",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 61,
+  "page": 282,
+  "kind": "Sostituzione",
+  "original": "gangsters",
+  "new": "his mob",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 62,
+  "page": 290,
+  "kind": "Sostituzione",
+  "original": "Eat. I’ve never seen you so scrawny",
+  "new": "Eat something, please",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 63,
+  "page": 290,
+  "kind": "Sostituzione",
+  "original": "“Yuk.”",
+  "new": "“Quite the mane.”",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 64,
+  "page": 290,
+  "kind": "Sostituzione",
+  "original": "cinnamon bun",
+  "new": "croissant",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 65,
+  "page": 291,
+  "kind": "Sostituzione",
+  "original": "wheezing and perspiring from walking a block and climbing four sets of stairs.",
+  "new": "perspiring from climbing four sets of stairs.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 67,
+  "page": 305,
+  "kind": "Inserimento",
+  "original": "",
+  "new": "Koyah tapped his shoulder.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 68,
+  "page": 305,
+  "kind": "Sostituzione",
+  "original": "Koyah",
+  "new": "He",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 69,
+  "page": 317,
+  "kind": "Sostituzione",
+  "original": ", fighting noon traffic.",
+  "new": ".",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 71,
+  "page": 328,
+  "kind": "Sostituzione",
+  "original": "Zi sat in the stateroom alone.",
+  "new": "Serge left for the evening.  Zi rested in the state room alone.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 72,
+  "page": 328,
+  "kind": "Sostituzione",
+  "original": "It",
+  "new": "This",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 73,
+  "page": 334,
+  "kind": "Sostituzione",
+  "original": "His",
+  "new": "Zi's",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 74,
+  "page": 334,
+  "kind": "Sostituzione",
+  "original": "as he",
+  "new": "and",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 76,
+  "page": 337,
+  "kind": "Sostituzione",
+  "original": "150",
+  "new": "one-fifty",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 78,
+  "page": 350,
+  "kind": "Sostituzione",
+  "original": "Though h",
+  "new": "H",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 79,
+  "page": 360,
+  "kind": "Sostituzione",
+  "original": "it",
+  "new": "the drug ring",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 80,
+  "page": 370,
+  "kind": "Sostituzione",
+  "original": "The authorities could trace it back to him and the twins, and they could connect the Lius with the drug operations.",
+  "new": "The announcement would likely lead the authorities straight back to him and the twins. Once on their radar, the Lius could be discovered for importing illegal drugs—a problem he couldn’t solve.",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 81,
+  "page": 378,
+  "kind": "Sostituzione",
+  "original": "bastard",
+  "new": "bloody monster",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 83,
+  "page": 394,
+  "kind": "Sostituzione",
+  "original": "“Yes, Benji is our family, and we will recognize him, even if he has passed. He and his mom deserve the respect Wallace didn’t give them.”",
+  "new": "“Yes . . .” Harry hesitated. Fuck, this wasn’t the plan. “Benji is our family. We’ll recognize him, even if he’s gone.” He swallowed. “He and his mother . . . they deserve the respect Wallace never gave them.”",
+  "note": "",
+  "status": "located"
+ },
+ {
+  "n": 84,
+  "page": 396,
+  "kind": "Sostituzione",
+  "original": "She understood. She wasn’t welcome. But he was the father of her child.",
+  "new": "I understand. He doesn't want me here.¶She touched her stomach again.¶But I'm not the only one he's turning away.",
+  "note": "",
+  "status": "located"
+ }
+]

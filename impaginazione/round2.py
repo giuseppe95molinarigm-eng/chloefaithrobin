@@ -42,9 +42,9 @@ def locate(e):
 def smart(new, prev_char):
     new = re.sub(r"\.\s\.\s\.", ". . .", new)
     out = []; p = prev_char
-    for ch in new:
+    for i, ch in enumerate(new):
         if ch in "'\"":
-            opening = p in ("", " ", "\n", " ", "—", "“", "(", "\t")
+            opening = p in ("", " ", "\n", " ", "—", "“", "(", "\t") or (new[i + 1:i + 2].isalnum() and not p.isalnum() and p not in "’”")
             ch = ("‘" if opening else "’") if ch == "'" else ("“" if opening else "”")
         out.append(ch); p = ch
     return "".join(out)
@@ -101,7 +101,8 @@ for e in edits:
     allit = bool(orig.strip()) and all(G[i][1] for i in range(s, t) if G[i][2] is None and G[i][0].strip())
     if k == "Inserimento":
         allit = s > 0 and t < len(G) and G[s - 1][1] and G[t][1]
-    if new and new != " " and not new.startswith("¶"):
+    inword = k == "Inserimento" and pc.isalnum() and nc.isalnum()
+    if new and new != " " and not new.startswith("¶") and not inword:
         if new[0].isalnum() and pc.isalnum() and not orig[:1].isalnum(): new = " " + new
         elif orig[:1] == " " and (new[0].isalnum() or new[0] in "'\"“‘"): new = " " + new
         if new[-1].isalnum() and nc.isalnum() and not orig[-1:].isalnum(): new = new + " "
