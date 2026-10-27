@@ -76,7 +76,7 @@ i {{ font-style: italic; }}
 .title .art {{ position: absolute; left: 0; right: 0; top: {222 - MT}pt; text-align: center; }}
 .title .art img {{ width: 250pt; height: 134pt; }}
 .title .logo {{ position: absolute; left: 0; right: 0; top: {455 - MT}pt; text-align: center; }}
-.title .logo img {{ width: 62pt; }}
+.title .logo img {{ width: 78pt; }}
 
 .copyright {{ height: {28*LEAD}pt; display: flex; flex-direction: column; justify-content: flex-end; }}
 .copyright div {{ font-size: 9pt; line-height: 12pt; text-align: center; margin-left: 2pt; margin-right: -2pt; }}
